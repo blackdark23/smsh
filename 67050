@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <title>SMSH</title>
+<style>
+.container{
+    margin-top:30px;
+}
+</style>
+  </head>
+  <body>
+  <nav class="navbar sticky-top navbar-dark bg-dark"       class="d-block w-100">
+      <a class="navbar-brand" href="#">
+    <img src="lg.png" width="30" height="30" class="d-inline-block align-top" alt="Logo">
+    SMSH
+  <a class="navbar-brand" href="#edu">Education </a>
+  <a class="navbar-brand" href="#abu">About Me</a>
+    <a class="navbar-brand" href="#"></a>
+    <a class="navbar-brand" href="#"></a>
+    <a class="navbar-brand" href="#"></a>
+    <a class="navbar-brand" href="#"></a>
+    <a class="navbar-brand" href="#"></a>
+    <a class="navbar-brand" href="#"></a>
+
+  </nav>
+</div>
+      <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img3.jpg" class="d-block w-100" alt="SUN">
+    </div>
+    <div class="carousel-item">
+      <img src="img1.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="img2.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<div class="container">
+<div class="jumbotron">
+  <h1 class="display-4">Welcome To My Website</h1>
+  <p class="lead">Hello! I am S M Shakib Hasan.</p>
+</div>
+</div>
+<div class="container">
+</div>
+<div id="edu" class="container">
+  <div class="card">
+  <div class="card-header">Education 
+  </div>
+  <div class="card-body">
+    <h1 class="card-title">Primary Education </h1>
+    <h5 class="card-text">School:Abida Kinder Garter</h5>
+    <p class="card-text">2009- Class Play
+    <p class="card-text">2010- Class Narsari
+    <p class="card-text">2011- Class One
+    <p class="card-text">2012-Class Two
+    <p class="card-text">2013- Class Three
+    <p class="card-text">2014- Class Four
+    <p class="card-text">2015- Class Five( PSC Exam)
+    </p>
+   <h1 class="card-title">Secondary Education</h1>
+    <h5 class="card-text">School:Saidur Rahman Memorial High School</h5>
+    <p class="card-text">2016- Class Six
+<p class="card-text">2017- Class Seven
+<p class="card-text">2018- Class Eight (JSC Exam)
+<p class="card-text">2019- Class Nine
+<p class="card-text">2020-2021-Class Ten (SSC Exam) Continue...
+</p>
+  </div>
+</div>
+</div>
+<div id="abu" class="container">
+  <div class="card-group">
+  <div class="card">
+    <img src="me.png" width="89" height="400" class="card-img-top" alt="Shakib">
+    <div class="card-body">
+      <h5 class="card-title">About Me</h5>
+      <p class="card-text"> I am S M Shakib Hasan.I am only seventeen years old.I read in class ten.My hometown Niguary,Gafargaon,Mymensingh.I want to be a software engineer. I like to read stories, play games,eat,etc......</p>
+        <p class="lead">আমি এস এম সাকিব হাসান।আমার বয়স মাত্র সতেরো বছর।আমি দশম শ্রেনীতে পড়ি।আমার বাসা নিগুয়ারি,গফরগাঁও,ময়মনসিংহ।আমি সফটওয়্যার ইঞ্জিনিয়ার হতে চাই।আমার গল্প পরতে, গেম খেলতে,খাইতে বেশি ভালো লাগে।</p>
+  <p>Contact Me with Facebook.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="https://www.facebook.com/smsh.me" role="button">Facebook</a>
+  </p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+  </div>
+</div>
+</div>
+<div class="container">
+  <h1>Wait For Best content...</h1>
+</div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
